@@ -1,6 +1,6 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Jet Lageman" # the name of your site, e.g. ACME Corp.
-description: "cognitive computational neuroscientist"
+description: "cognitive neuroscientist"
 email: "j.lageman@vu.nl"
 bluesky: "https://bsky.app/profile/jetlageman.bsky.social"
