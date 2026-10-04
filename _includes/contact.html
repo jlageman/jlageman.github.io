@@ -4,8 +4,8 @@
     {% for contact in site.data.settings.contacts %}
     <div class="row g-5 mb-5">
       <div class="col-md-6">
-        <p>Email: {{ contact.email }}</p>
-        <p>Office: {{ contact.institution }} | {{ contact.institution_address }} | {{ contact.office }}</p>
+        <p><em>Email:</em> {{ contact.email }}</p>
+        <p><em>Office:</em> {{ contact.institution }} | {{ contact.institution_address }} | {{ contact.office }}</p>
         {% for item in site.data.settings.social %}
         <a href="{{ item.link }}" class="ms-3 fs-5"><i class="fab fa-{{ item.icon }}"></i></a>
         {% endfor %}
