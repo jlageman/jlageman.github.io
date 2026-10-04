@@ -1,11 +1,15 @@
 - title: 'PhD in Cognitive Neuroscience'
-  description: 'Vrije Universiteit Amsterdam (2022-present)'
+  location: 'Vrije Universiteit Amsterdam (2022-present)'
+  description: 'supervised by prof. Heleen Slagter and dr. Johannnes Fahrenfort'
 
 - title: 'Research & teaching assistant (1 FTE)'
-  description: 'Vrije Universiteit Amsterdam (2021-2022)'
+  location: 'Vrije Universiteit Amsterdam (2021-2022)'
+  description: 'supervised by prof. Heleen Slagter'
 
 - title: 'Research assistant (0.3 FTE)'
-  description: 'Leiden University (2021)'
+  location: 'Leiden University (2021)'
+  description: 'supervised by prof. Bernhard Hommel'
 
 - title: 'Research internship at Conscious Brain Lab'
-  description: 'Universiteit van Amsterdam (2020-2021)'
+  location: 'Universiteit van Amsterdam (2020-2021)'
+  description: 'supervised by dr. Simon van Gaal and dr. Johannes Fahrenfort'
